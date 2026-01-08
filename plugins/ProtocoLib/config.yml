@@ -16,7 +16,7 @@ global:
   background compiler: true
   
   # Disable version checking for the given Minecraft version. Backup your world first!
-  ignore version check: 1.21.10
+  ignore version check: 1.21.11
 
   # Whether or not to enable the filter command
   debug: false

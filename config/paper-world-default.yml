@@ -300,7 +300,7 @@ misc:
   update-pathfinding-on-block-update: true
 scoreboards:
   allow-non-player-entities-on-scoreboards: true
-  use-vanilla-world-scoreboard-name-coloring: true
+  use-vanilla-world-scoreboard-name-coloring: false
 spawn:
   allow-using-signs-inside-spawn-protection: false
 tick-rates:
